@@ -69,3 +69,12 @@ These dashboards help stakeholders quickly interpret data
 - Discovered top-performing product categories
 - Analyzed profit margins to detect loss-making areas
 - Observed seasonal trends in sales and demand
+
+### Future Enhancements
+- Implement machine learning models for sales forecasting
+- Develop real-time analytics dashboards
+- Improve customer segmentation using advanced techniques
+- Integrate external datasets for deeper insights
+  
+### Contribution
+You can enhance this project by adding new queries, improving performance, or building advanced analytics models.
