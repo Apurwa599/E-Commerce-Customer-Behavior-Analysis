@@ -44,16 +44,28 @@ Revenue and profit analysis
 
 These dashboards help stakeholders quickly interpret data
 
-### ❓ Key Business Questions Solved
+### Key Business Questions Solved
 - Which product categories generate the highest sales?
 - How does customer behavior vary across different demographics?
 - What are the monthly sales and profit trends?
 - Who are the most valuable customers?
 - How do payment preferences change over time?
 
-  ### 🛠️ Implementation Steps
+### Implementation Steps
 - Import dataset into SQL database
 - Design schema and establish relationships
 - Write and execute analytical SQL queries
 - Export processed data for visualization
 - Build dashboards for insights
+
+### Challenges Encountered
+Handling complex relationships across multiple tables
+Writing optimized queries for large datasets
+Ensuring accuracy while joining multiple data sources
+Translating business questions into SQL logic
+
+📈 Key Insights
+Identified high-value customers and their purchasing patterns
+Discovered top-performing product categories
+Analyzed profit margins to detect loss-making areas
+Observed seasonal trends in sales and demand
