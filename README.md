@@ -50,3 +50,10 @@ These dashboards help stakeholders quickly interpret data
 - What are the monthly sales and profit trends?
 - Who are the most valuable customers?
 - How do payment preferences change over time?
+
+  ### 🛠️ Implementation Steps
+- Import dataset into SQL database
+- Design schema and establish relationships
+- Write and execute analytical SQL queries
+- Export processed data for visualization
+- Build dashboards for insights
