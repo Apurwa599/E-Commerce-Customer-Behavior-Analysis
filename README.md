@@ -14,7 +14,7 @@ The dataset consists of multiple interconnected tables such as customers, orders
 
 
 ### Project Structure
-### 💼 Database Design
+### Database Design
 The database includes several related tables:
 
 Customers
