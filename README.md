@@ -59,13 +59,13 @@ These dashboards help stakeholders quickly interpret data
 - Build dashboards for insights
 
 ### Challenges Encountered
-Handling complex relationships across multiple tables
-Writing optimized queries for large datasets
-Ensuring accuracy while joining multiple data sources
-Translating business questions into SQL logic
+- Handling complex relationships across multiple tables
+- Writing optimized queries for large datasets
+- Ensuring accuracy while joining multiple data sources
+- Translating business questions into SQL logic
 
-📈 Key Insights
-Identified high-value customers and their purchasing patterns
-Discovered top-performing product categories
-Analyzed profit margins to detect loss-making areas
-Observed seasonal trends in sales and demand
+### Key Insights
+- Identified high-value customers and their purchasing patterns
+- Discovered top-performing product categories
+- Analyzed profit margins to detect loss-making areas
+- Observed seasonal trends in sales and demand
