@@ -45,10 +45,8 @@ Revenue and profit analysis
 These dashboards help stakeholders quickly interpret data
 
 ### ❓ Key Business Questions Solved
-Which product categories generate the highest sales?
-How does customer behavior vary across different demographics?
-What are the monthly sales and profit trends?
-Who are the most valuable customers?
-How do payment preferences change over time?
-
-
+- Which product categories generate the highest sales?
+- How does customer behavior vary across different demographics?
+- What are the monthly sales and profit trends?
+- Who are the most valuable customers?
+- How do payment preferences change over time?
