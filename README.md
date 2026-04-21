@@ -34,8 +34,21 @@ Aggregations (SUM, COUNT, AVG)
 Window functions (if used)
 Performance optimization
 
+### Dashboard Visualization
+Interactive dashboards were built using Power BI to present:
 
+Sales performance
+Customer trends
+Product category insights
+Revenue and profit analysis
 
+These dashboards help stakeholders quickly interpret data
 
+### ❓ Key Business Questions Solved
+Which product categories generate the highest sales?
+How does customer behavior vary across different demographics?
+What are the monthly sales and profit trends?
+Who are the most valuable customers?
+How do payment preferences change over time?
 
 
