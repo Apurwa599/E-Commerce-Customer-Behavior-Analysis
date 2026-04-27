@@ -1,4 +1,4 @@
-## Customer-Behavior-and-Business-Analysis-SQL-Analytics
+## E-Commerce Customer Behavior Analysis
 ### Project Summary
 This project focuses on analyzing customer purchasing patterns, business performance, sales trends, and profitability using SQL-driven analytics.
 The goal is to transform raw data into actionable insights that support strategic decision-making.
