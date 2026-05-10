@@ -46,10 +46,10 @@ Interactive dashboards were built using Power BI to present:
 - Build dashboards for insights
 
 ### Challenges Encountered
-- Handling complex relationships across multiple tables
-- Writing optimized queries for large datasets
-- Ensuring accuracy while joining multiple data sources
-- Translating business questions into SQL logic
+- It handles complex relationships across multiple tables.
+- It involves writing optimized queries for large datasets.
+- It ensures accuracy while joining multiple data sources.
+- It translates business questions into SQL logic.
 
 ### Key Insights
 - Identified high-value customers and their purchasing patterns
