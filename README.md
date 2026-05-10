@@ -21,23 +21,15 @@ The database includes several related tables:
 Understanding relationships between these tables (Primary Keys & Foreign Keys) is essential for accurate analysis.
 
 ### Data Analysis (SQL)
-A wide range of SQL queries were implemented, including:
-
-Data extraction and filtering
-Multi-table joins
-Aggregations (SUM, COUNT, AVG)
-Window functions (if used)
-Performance optimization
+A wide range of SQL queries were implemented such as Data extraction and filtering, Multi-table joins, Aggregations (SUM, COUNT, AVG), Window functions, Performance optimization.
 
 ### Dashboard Visualization
 Interactive dashboards were built using Power BI to present:
 
-Sales performance
-Customer trends
-Product category insights
-Revenue and profit analysis
-
-These dashboards help stakeholders quickly interpret data
+- Sales performance
+- Customer trends
+- Product category insights
+- Revenue and profit analysis
 
 ### Key Business Questions Solved
 - Which product categories generate the highest sales?
